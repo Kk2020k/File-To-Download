@@ -29,8 +29,8 @@ async def start(b, m):
             caption="**Hello...⚡\n\nI Am A Simple Telegram File/Video To Permanent Download Link And Stream Link Generator Bot.**\n\n**Use /help For More Details\n\nSend Me Any Video/File To See My Power...**",
             reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/Madflix_Bots"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/MadflixBots_Support")],
-                    [InlineKeyboardButton("👨‍💻 DEVELOPER 👨‍💻", url="https://t.me/CallAdminRobot")]
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/ProfessorContact_bot"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/MadflixBots_Support")],
+                    [InlineKeyboardButton("👨‍💻 DEVELOPER 👨‍💻", url="https://t.me/ProfessorContact_bot")]
                 ]
             ),
             
@@ -84,8 +84,8 @@ async def help_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/Madflix_Bots"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/MadflixBots_Support")],
-                    [InlineKeyboardButton("👨‍💻 DEVELOPER 👨‍💻", url="https://t.me/CallAdminRobot")]
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/ProfessorContact_bot"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/MadflixBots_Support")],
+                    [InlineKeyboardButton("👨‍💻 DEVELOPER 👨‍💻", url="https://t.me/ProfessorContact_bot")]
                 ]
             ),
             
@@ -106,8 +106,8 @@ async def about_handler(bot, message):
 <b>╭━━━━━━━〔File To Link Bot〕</b>
 ┃
 ┣⪼<b>Bᴏᴛ Nᴀᴍᴇ</b> : File To Link
-┣⪼<b>Updates</b> : <a href='https://t.me/Madflix_Bots'>Bot Updates</a>
-┣⪼<b>Support</b> : <a href='https://t.me/MadflixBots_Support'>Bot Support</a>
+┣⪼<b>Updates</b> : <a href='https://t.me/ProfessorContact_bot'>Bot Updates</a>
+┣⪼<b>Support</b> : <a href='https://t.me/ProfessorContact_bot'>Bot Support</a>
 ┣⪼<b>Server</b> : Heroku
 ┣⪼<b>Library</b> : Pyrogram
 ┣⪼<b>Language</b> : Python 3
@@ -117,8 +117,8 @@ async def about_handler(bot, message):
         
         reply_markup=InlineKeyboardMarkup(
                 [
-                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/Madflix_Bots"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/MadflixBots_Support")],
-                    [InlineKeyboardButton("👨‍💻 DEVELOPER 👨‍💻", url="https://t.me/CallAdminRobot")]
+                    [InlineKeyboardButton("⚡ UPDATES ⚡", url="https://t.me/ProfessorContact_bot"), InlineKeyboardButton("⚡ SUPPORT ⚡", url="https://t.me/MadflixBots_Support")],
+                    [InlineKeyboardButton("👨‍💻 DEVELOPER 👨‍💻", url="https://t.me/ProfessorContact_bot")]
                 ]
             ),
             
